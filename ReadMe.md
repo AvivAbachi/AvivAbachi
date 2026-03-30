@@ -23,9 +23,11 @@ Currently contributing to a large-scale open-source public transportation platfo
 **DevOps:** GitHub Actions, Docker, Kubernetes, AWS, Azure  
 **Testing:** Playwright, Jest, Mocha
 
+
+
 ## Contact
 - 📧 AvivAbachi@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/avivabachi)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aviv-abachi)
 - 🐙 [GitHub](https://github.com/AvivAbachi)
 
 ## GitHub Stats
